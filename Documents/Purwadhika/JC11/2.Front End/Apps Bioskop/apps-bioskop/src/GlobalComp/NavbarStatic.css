@@ -1,0 +1,45 @@
+.top-ads{
+    display: flex;
+    justify-content: center;
+}
+.top-ads-cont{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.navbar-static-cont{
+    display: flex;
+    justify-content: space-between;
+    background-color: #006563;
+}
+
+.home-cont{
+    display: flex;
+    margin-left: 10%;
+    cursor: pointer;
+}
+
+.logo-cineplex{
+    margin-left: 15px;
+}
+
+.search-bar{
+    padding-top: 1.5%;
+    margin-right: 10%;
+    display: flexbox;
+    justify-content: right;
+    width: 450px;
+}
+
+.form-group{
+    display: flex !important;
+}
+
+.search-icon{
+    padding-top: 1%;
+}
+
+.search-bar-comp{
+    width: 350px;
+}
+

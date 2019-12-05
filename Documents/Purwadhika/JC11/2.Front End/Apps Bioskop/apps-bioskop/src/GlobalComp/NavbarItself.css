@@ -1,0 +1,13 @@
+.navbar-itself{
+    background-color: lightgray !important;
+    display: inline-block !important;
+    
+}
+
+.nav{
+    display: flex;
+    width: 850px;
+    background-color: lightgray;
+    margin-left: 14%;
+    border-right: solid gray ;
+}

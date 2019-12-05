@@ -1,0 +1,12 @@
+.card-itself{
+    display: inline-flex;
+    padding: 10px 10px 0 0;
+    text-align: center;
+    z-index: 0;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.card{
+    border: none !important;
+}

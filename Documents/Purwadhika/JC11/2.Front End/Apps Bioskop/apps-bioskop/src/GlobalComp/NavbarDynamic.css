@@ -1,0 +1,23 @@
+.navbar-dynamic-cont{
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: lightgray;
+ 
+}
+
+.navbar{
+    position: fixed;
+    background-color: lightgray;
+    padding: 0;
+    width: fit-content;    
+}
+
+.navbar-partners{
+    background-color: lightgray;
+    display: inline-flex;
+    padding-top: 27px;
+    padding-left: 27px;
+}
+
